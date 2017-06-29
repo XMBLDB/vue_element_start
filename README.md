@@ -15,5 +15,7 @@ npm run dev
 npm run build
 ```
 
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
 # vue_element_start
+
+vue+vuex+elementUI项目初始化文件结构；
+有问题的话重新可能是下载的依赖有问题，用yarn可能就会出现；
