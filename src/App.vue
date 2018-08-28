@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <!-- ddd -->
+    <!-- www -->
     <router-view></router-view>
   </div>
 </template>
